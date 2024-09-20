@@ -1,2 +1,2 @@
 # Carta-apresentacao
- Este repositório traz uma carta de apresentação
+ Este repositório traz uma carta de apresentação pessoal
